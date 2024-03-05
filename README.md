@@ -13,7 +13,7 @@ Este é um relógio digital personalizado. <br/>
   <img alt="License" src="./img/relogio.png">
 </p>
 
-## 🚀 Ferramentas
+##  Ferramentas
 
 Esse projeto foi desenvolvido com as seguintes ferramentas:
 
@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes ferramentas:
 - JavaScript
 - Git e Github
 
-## 💻 Projeto
+##  Projeto
 
 Este foi um projeto pessoal que me permitiu explorar algumas ferramentas do JavaScript. Decidi criar um relógio digital totalmente personalizado do zero, o que me permitiu exercitar meus conhecimentos de CSS.
 
