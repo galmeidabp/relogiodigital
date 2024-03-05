@@ -6,8 +6,7 @@ Este é um relógio digital personalizado. <br/>
 
 <p align="center">
   <a href="#-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-layout">Aprendizado</a>
+  <a href="#-projeto">Projeto</a>
 </p>
 
 <p align="center">
@@ -24,10 +23,5 @@ Esse projeto foi desenvolvido com as seguintes ferramentas:
 
 ## 💻 Projeto
 
-
-
-## ✏️ Aprendizado
-
-
-
+Este foi um projeto pessoal que me permitiu explorar algumas ferramentas do JavaScript. Decidi criar um relógio digital totalmente personalizado do zero, o que me permitiu exercitar meus conhecimentos de CSS.
 
